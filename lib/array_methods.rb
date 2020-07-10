@@ -1,7 +1,6 @@
 def using_include(array, element)
 using_include=["beer", "water", "soda"]
 using_include.include?("orange juice")
-using_include.include? ("beer")
 end
 
 def using_sort(array)
